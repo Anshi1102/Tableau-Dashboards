@@ -8,3 +8,6 @@ Link: https://public.tableau.com/views/CustomerSegmentationAnalysis_173134764383
 
 **(3) Covid-19 Global Impact Analysis**  
 Link: https://public.tableau.com/views/COVID-19GLOBALIMPACTANALYSIS/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+**(4) Sales Performance Dashboard**
+Link: https://public.tableau.com/views/SalesPerformanceDashboard_17313396640580/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
